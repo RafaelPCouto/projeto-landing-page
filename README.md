@@ -6,3 +6,7 @@ Este projeto é uma página inicial básica que incorpora os fundamentos do dese
 
 Feedback: 
 Adoraria receber feedback sobre minha jornada de aprendizado e este projeto. Se tiver alguma dúvida ou sugestão, não hesite em compartilhar.
+
+links:
+https://desafiomodulo1dnc.netlify.app/
+https://docs.google.com/spreadsheets/d/1nS4fF7ujEUiAwRBYJd2ALiggL1okshqD32UeDlfcsmg/edit#gid=0
