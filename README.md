@@ -6,10 +6,6 @@ VISÃO GERAL DO PROJETO
 
 Este projeto é uma página inicial básica que incorpora os fundamentos do desenvolvimento web. Utilizei HTML para estrutura, CSS para estilo e JavaScript para adicionar alguma interatividade simples.
 
-FEEDBACK 
-
-Adoraria receber feedback sobre minha jornada de aprendizado e este projeto. Se tiver alguma dúvida ou sugestão, não hesite em compartilhar.
-
 LINKS
 
 https://desafiomodulo1dnc.netlify.app/
